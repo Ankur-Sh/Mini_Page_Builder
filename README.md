@@ -7,7 +7,7 @@ npm (Node Package Manager)
 Steps to Run the Application
 
 Clone the Repository:
-**git clone https://github.com/your-repository-url.git**
+**git clone https://github.com/Ankur-Sh/Mini_Page_Builder.git**
 
 Navigate to the Project Directory:
 **cd your-project-directory**
