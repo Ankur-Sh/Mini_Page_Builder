@@ -34,8 +34,8 @@ Sidebar: Contains draggable items for adding new components to the canvas and pr
 Page: Displays and allows interaction with the components. Handles drag-and-drop functionality for components.
 Modal: A dialog box for configuring the currently selected component.
 
-File Structure
-**src/
+**File Structure**
+src/
 │
 ├── Components/
 │   ├── Sidebar.js
@@ -44,7 +44,7 @@ File Structure
 │
 ├── App.js
 ├── index.js
-└── index.css**
+└── index.css
 
 Components Details
 
